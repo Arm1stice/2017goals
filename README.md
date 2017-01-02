@@ -1,6 +1,6 @@
 # Arm1stice's Goals For 2017
-## Why is this for?
-I want 2017 to be a big year for me. As such, I want to set some goals for myself now. I'm not a big fan of New Year resolutions, as they usually aren't concretely defined. My intent with this, however, is to set goals for myself that will point me in the direction that I would like to go. By making it public, it will serve as a constant reminder to myself of what my goals are. By putting it on a GitHub repository, it makes it easy for me to track the changes I make to my goals throughout the year. Also, it allows people to suggest goals for me if they would like. So, without further ado....
+## What is this for?
+I want 2017 to be a big year for me. As such, I want to set some goals for myself now. I'm not a big fan of New Year resolutions, as they usually aren't concretely defined. My intent with this, however, is to set goals for myself that will point me in the direction that I would like to go this year. By making it public, it will serve as a constant reminder to myself of what my goals are. By putting it on a GitHub repository, it makes it easy for me to track the changes I make to my goals throughout the year. Also, it allows people to suggest goals for me if they would like. So, without further ado....
 
 ## My goals
 ### Academic
