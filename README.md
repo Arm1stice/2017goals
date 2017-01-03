@@ -35,3 +35,10 @@ Gaming is a big part of my life, and I would like to take it as far as I can. Th
 ##### osu!
 - Break top 20k in standard
 - Break top 5k in mania, and continue to work on 7K mania.
+
+### Financial Goals
+- When I turn 18
+  1. Start a savings account
+  2. Start an Acorns account
+  3. Start a Robinhood account
+- Pay off my car
